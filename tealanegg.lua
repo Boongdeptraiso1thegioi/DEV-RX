@@ -861,7 +861,7 @@ G.ImageLabel.BackgroundTransparency = 1
 G.ImageLabel.Position = UDim2.new(0.5, 0, 0.41999998688697815, 0)
 G.ImageLabel.Size = UDim2.new(0, 105, 0, 105)
 G.ImageLabel.ZIndex = 1001
-G.ImageLabel.Image = "rbxassetid://111673251884153"
+G.ImageLabel.Image = "rbxassetid://132496994821739"
 G.ImageLabel.ScaleType = Enum.ScaleType.Fit
 G.ImageLabel.Parent = G.KHAY_CINEMATIC_INTRO
 
@@ -942,7 +942,7 @@ G.KHAY_FLOAT.BorderSizePixel = 0
 G.KHAY_FLOAT.Position = UDim2.new(1, -195, 0, 14)
 G.KHAY_FLOAT.Size = UDim2.new(0, 54, 0, 54)
 G.KHAY_FLOAT.ZIndex = 1001
-G.KHAY_FLOAT.Image = "rbxassetid://111673251884153"
+G.KHAY_FLOAT.Image = "rbxassetid://132496994821739"
 G.KHAY_FLOAT.ScaleType = Enum.ScaleType.Crop
 G.KHAY_FLOAT.Parent = G.KHAY_HUB
 
@@ -1489,7 +1489,7 @@ G.ImageLabel_2.BorderSizePixel = 0
 G.ImageLabel_2.Position = UDim2.new(0, 10, 0, 10)
 G.ImageLabel_2.Size = UDim2.new(0, 48, 0, 48)
 G.ImageLabel_2.ZIndex = 50
-G.ImageLabel_2.Image = "rbxassetid://111673251884153"
+G.ImageLabel_2.Image = "rbxassetid://132496994821739"
 G.ImageLabel_2.ScaleType = Enum.ScaleType.Crop
 G.ImageLabel_2.Parent = G.KHAY_PANEL
 
