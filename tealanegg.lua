@@ -8,7 +8,7 @@ local G = {}
 
 -- KHAY_HUB (ScreenGui)
 G.KHAY_HUB = Instance.new("ScreenGui")
-G.KHAY_HUB.Name = "KHAY_HUB"
+G.KHAY_HUB.Name = "RX_HUB"
 G.KHAY_HUB.ResetOnSpawn = false
 G.KHAY_HUB.DisplayOrder = 1000
 G.KHAY_HUB.IgnoreGuiInset = true
@@ -884,7 +884,7 @@ G.TextLabel.Position = UDim2.new(0.5, 0, 0.56000000238418579, 115)
 G.TextLabel.Size = UDim2.new(0, 400, 0, 45)
 G.TextLabel.ZIndex = 1005
 G.TextLabel.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Heavy, Enum.FontStyle.Normal)
-G.TextLabel.Text = "KHAY"
+G.TextLabel.Text = "RX HUB"
 G.TextLabel.TextColor3 = Color3.fromRGB(235, 230, 255)
 G.TextLabel.TextSize = 30
 G.TextLabel.Parent = G.KHAY_CINEMATIC_INTRO
@@ -902,7 +902,7 @@ G.TextLabel_2.Position = UDim2.new(0.5, 0, 0, 0)
 G.TextLabel_2.Size = UDim2.new(0, 350, 0, 25)
 G.TextLabel_2.ZIndex = 1005
 G.TextLabel_2.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
-G.TextLabel_2.Text = "[ KHAY HUB • ULTRA EDITION ]"
+G.TextLabel_2.Text = "[ RX HUB • STEAL AN EGG ]"
 G.TextLabel_2.TextColor3 = Color3.fromRGB(150, 140, 180)
 G.TextLabel_2.TextSize = 11
 G.TextLabel_2.TextTransparency = 1
